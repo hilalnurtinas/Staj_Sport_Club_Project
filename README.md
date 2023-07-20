@@ -1,1 +1,4 @@
 # SportClubProject
+
+#Bu projede
+#jgkf
